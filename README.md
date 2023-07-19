@@ -6,7 +6,7 @@ We are analyzing if the original data model or the resampled data model using Ra
 Results:
 The higher scores compared to each report are marked with an (*)
 
-Original Data Model:
+# Original Data Model:
 
 Classification Report:
 
@@ -28,7 +28,7 @@ Support (Label 0 - Healthy Loans): 18,765
 
 Support (Label 1 - High-Risk Loans): 619
 
-Resampled Data Model:
+# Resampled Data Model:
 
 Classification Report:
 
