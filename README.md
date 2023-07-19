@@ -32,7 +32,7 @@ Support (Label 1 - High-Risk Loans): 619
 
 Classification Report:
 
-Accuracy Score: 99.4%
+Accuracy Score: * 99.4%
 
 Precision Score (Label 0 - Healthy Loans): 100%
 
@@ -52,4 +52,4 @@ Support (Label 1 - High-Risk Loans): 619
 
 # Summary:
 
-Both original and resampled data models are good at predicting the creditworthiness of customers. The resampled data model has a slightly better accuracy and recall score. The original data model has a higher precision score.
+Both original and resampled data models are good at predicting the creditworthiness of customers. The resampled data model has a slightly better accuracy and recall score. The original data model has a higher precision score. 
