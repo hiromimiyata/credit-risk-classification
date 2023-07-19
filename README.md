@@ -11,13 +11,21 @@ Original Data Model:
 Classification Report:
 
 Accuracy Score: 99.2%
+
 Precision Score (Label 0 - Healthy Loans): 100%
+
 Precision Score (Label 1 - High-Risk Loans): * 85%
+
 Recall Score (Label 0 - Healthy Loans): 99%
+
 Recall Score (Label 1 - High-Risk Loans): 91%
+
 F1-Score (Label 0 - Healthy Loans): 99%
+
 F1-Score (Label 1 - High-Risk Loans): 88%
+
 Support (Label 0 - Healthy Loans): 18,765
+
 Support (Label 1 - High-Risk Loans): 619
 
 Resampled Data Model:
@@ -25,13 +33,21 @@ Resampled Data Model:
 Classification Report:
 
 Accuracy Score: 99.4%
+
 Precision Score (Label 0 - Healthy Loans): 100%
+
 Precision Score (Label 1 - High-Risk Loans): 84%
+
 Recall Score (Label 0 - Healthy Loans): 99%
+
 Recall Score (Label 1 - High-Risk Loans): * 99%
+
 F1-Score (Label 0 - Healthy Loans): 99%
+
 F1-Score (Label 1 - High-Risk Loans): * 91%
+
 Support (Label 0 - Healthy Loans): 18,765
+
 Support (Label 1 - High-Risk Loans): 619
 
 Summary:
