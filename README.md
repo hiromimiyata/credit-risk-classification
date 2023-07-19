@@ -12,7 +12,7 @@ The higher scores compared to each report are marked with an (*)
 
 - Accuracy Score: 99.2%
 
-- Classification Report:
+Classification Report:
 
 - Precision Score (Label 0 - Healthy Loans): 100%
 
@@ -44,7 +44,7 @@ Confusion Matrix :
 
 - Accuracy Score: * 99.4%
 
-- Classification Report:
+Classification Report:
 
 - Precision Score (Label 0 - Healthy Loans): 100%
 
