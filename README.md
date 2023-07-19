@@ -5,17 +5,30 @@ We are analyzing if the original data model or the resampled data model using Ra
 
 Results:
 
-Original Data Model:
+Classification Report:
 
-Accuracy Score: 95.2%
-Precision Score (High-Risk Loans - Label 1): 85%
-Recall Score (High-Risk Loans - Label 1): 91%
-
+Accuracy Score: 99.2%
+Precision Score (Label 0 - Healthy Loans): 100%
+Precision Score (Label 1 - High-Risk Loans): #85%
+Recall Score (Label 0 - Healthy Loans): 99%
+Recall Score (Label 1 - High-Risk Loans): 91%
+F1-Score (Label 0 - Healthy Loans): 99%
+F1-Score (Label 1 - High-Risk Loans): 88%
+Support (Label 0 - Healthy Loans): 18,765
+Support (Label 1 - High-Risk Loans): 619
 Resampled Data Model:
 
+Classification Report:
+
 Accuracy Score: 99.4%
-Precision Score (High-Risk Loans - Label 1): 84%
-Recall Score (High-Risk Loans - Label 1): 99%
+Precision Score (Label 0 - Healthy Loans): 100%
+Precision Score (Label 1 - High-Risk Loans): 84%
+Recall Score (Label 0 - Healthy Loans): 99%
+Recall Score (Label 1 - High-Risk Loans): #99%
+F1-Score (Label 0 - Healthy Loans): 99%
+F1-Score (Label 1 - High-Risk Loans): #91%
+Support (Label 0 - Healthy Loans): 18,765
+Support (Label 1 - High-Risk Loans): 619
 
 Summary:
 Both original and resampled data models are good at predicting the creditworthiness of customers. The resampled data model has a slightly better accuracy and recall score. The original data model has a higher precision score.
