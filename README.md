@@ -32,9 +32,9 @@ Confusion Matrix :
 
 True positives (label 1 correctly predicted as label 1) = 563
 
-True negatives (label 0 correctly predicted as label 0) = 18663
+True negatives (label 0 correctly predicted as label 0) = * 18663
 
-False positives (label 0 incorrectly predicted as label 1) = 102
+False positives (label 0 incorrectly predicted as label 1) = * 102
 
 False negatives (label 1 incorrectly predicted as label 0) = 56
 
@@ -62,14 +62,14 @@ Support (Label 1 - High-Risk Loans): 619
 
 Confusion Matrix :
 
-True positives (label 1 correctly predicted as label 1) = 615
+True positives (label 1 correctly predicted as label 1) = * 615
 
 True negatives (label 0 correctly predicted as label 0) = 18649
 
 False positives (label 0 incorrectly predicted as label 1) = 116
 
-False negatives (label 1 incorrectly predicted as label 0) = 4
+False negatives (label 1 incorrectly predicted as label 0) = * 4
 
 # Summary:
 
-Both original and resampled data models are good at predicting the creditworthiness of customers. The resampled data model has a slightly better accuracy and recall score. The original data model has a higher precision score. 
+Both original and resampled data models are good at predicting the creditworthiness of customers. The resampled data model has a slightly better accuracy and recall score. The original data model has a higher precision score. The confusion matrix shows that the original data model is better at finding true negatives and has fewer false positives. The resampled data model has a higher true positive outcome and less false negatives. 
