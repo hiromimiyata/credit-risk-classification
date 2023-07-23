@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# credit-risk-classification
 
 # Credit Analysis Report
 
